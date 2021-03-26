@@ -1,4 +1,9 @@
-# JvWeather
+# Bootcamp-Avanade-DIO - Previsão do tempo
+
+Antes de tudo você deve acessar o site: https://openweathermap.org/
+
+e gerar sua chave da API, depois inseri-la nos arquivos dentro da Pasta:
+--> environments, nos arquivos--> environment.prod.ts e environment.ts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
